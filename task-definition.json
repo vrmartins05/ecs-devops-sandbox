@@ -5,8 +5,8 @@
     "inferenceAccelerators": [],
     "containerDefinitions":[
         {
-            "name": "ec2-devops-sandbox",
-            "image": "ecs-devops-sanbox-repositiry:00000",
+            "name": "ecs-devops-sandbox",
+            "image": "ecs-devops-sanbox-repository:00000",
             "resourceRequirements": null,
             "essential": true,
             "portMappings": [
